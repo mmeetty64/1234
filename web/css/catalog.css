@@ -1,0 +1,29 @@
+.card-img {
+    width: 250px;
+    height: 290px;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.item {
+    margin-bottom: 15px;
+}
+
+.card-images {
+    width: 40%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.perechod {
+    margin-bottom: 20px;
+}
